@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmmahShop", "UmmahShop\UmmahShop.csproj", "{6308EFEB-EB4D-4735-A128-655A43D1A2BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmmahShopTests", "UmmahShopTests\UmmahShopTests.csproj", "{A986F353-5D01-450D-9FA8-10CDCB79BF32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6308EFEB-EB4D-4735-A128-655A43D1A2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6308EFEB-EB4D-4735-A128-655A43D1A2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6308EFEB-EB4D-4735-A128-655A43D1A2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6308EFEB-EB4D-4735-A128-655A43D1A2BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A986F353-5D01-450D-9FA8-10CDCB79BF32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A986F353-5D01-450D-9FA8-10CDCB79BF32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A986F353-5D01-450D-9FA8-10CDCB79BF32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A986F353-5D01-450D-9FA8-10CDCB79BF32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD659336-54A4-461E-BC68-CA3DBE939E6A}
+	EndGlobalSection
+EndGlobal
